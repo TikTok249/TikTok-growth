@@ -38,7 +38,7 @@ When evaluating TikTok marketing tools, consider:
 
 - **Do you need automation or scheduling?**  
   - For automation: **[TokAssist](https://www.tokassist.com/)**, **[Somiibo](https://somii.com/)**
-  - For scheduling: **[Hootsuite](https://hootsuite.com/)**, **[Buffer](https://buffer.com/)**, **[Later](https://later.com/)**
+  - For scheduling: **[Hootsuite](https://hootsuite.com/)**,**[TokAssist](https://www.tokassist.com/)**, **[Buffer](https://buffer.com/)**, **[Later](https://later.com/)**
 
 - **Are you managing multiple accounts or a team?**  
   - Choose tools like **[TokAssist](https://www.tokassist.com/)**, **[SkedSocial](https://skedsocial.com/)**, or **[CloudCampaign](https://cloudcampaign.io/)** for scalability.
